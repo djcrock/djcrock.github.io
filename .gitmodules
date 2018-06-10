@@ -1,5 +1,5 @@
 [submodule "js-swarm-sim"]
-	path = swarm-sim/js-swarm-sim
+	path = swarm-sim
 	url = https://github.com/djcrock/js-swarm-sim.git
 [submodule "spiracolor"]
 	path = spiracolor
