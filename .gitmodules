@@ -1,0 +1,12 @@
+[submodule "js-swarm-sim"]
+	path = js-swarm-sim
+	url = https://github.com/djcrock/js-swarm-sim.git
+[submodule "spiracolor"]
+	path = spiracolor
+	url = https://github.com/djcrock/spiracolor
+[submodule "time"]
+	path = time
+	url = https://github.com/djcrock/time
+[submodule "wagebucket"]
+	path = wagebucket
+	url = https://github.com/djcrock/wagebucket
